@@ -1,4 +1,4 @@
-laravel-admin-messages
+laravel-admin-messages-mikha
 ======================
 
 [![StyleCI](https://styleci.io/repos/97662824/shield?branch=master)](https://styleci.io/repos/97662824)
